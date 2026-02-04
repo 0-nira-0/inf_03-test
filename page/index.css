@@ -8,6 +8,8 @@ header, footer {
     background-color: #822233;
     text-align: center;
     padding: 20px;
+    overflow: auto;
+    
 }
 
 header img {
