@@ -1,0 +1,62 @@
+body {
+    font-family: Georgia;
+    color: white;
+    margin: 0;
+}
+
+header, footer {
+    background-color: #822233;
+    text-align: center;
+    padding: 20px;
+}
+
+header img {
+    float: left;
+    width: 200px;
+}
+
+#container {
+    overflow: hidden;
+}
+
+#lewy, #srodkowy {
+    background-color: #00C050;
+    width: 25%;
+    height: 450px;
+    float: left;
+    box-sizing: border-box;
+}
+
+#srodkowy {
+    background-color: #824555;
+    text-align: center;
+}
+
+#prawy {
+    background-color: #00C050;
+    width: 50%;
+    height: 400px;
+    float: left;
+    padding-top: 50px;
+    padding-left: 300px;
+    box-sizing: border-box;
+}
+
+table, p, dt {
+    margin: 10px;
+}
+
+dt {
+    padding-top: 20px;
+}
+
+td, th {
+    border: 3px solid #823666;
+    padding: 5px;
+    text-align: center;
+    margin: 5px; 
+}
+
+#lewy h2 {
+    text-align: center;
+}
